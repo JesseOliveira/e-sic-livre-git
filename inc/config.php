@@ -14,7 +14,7 @@ define("SISTEMA_NOME", "e-SIC Livre"); //nome do sistema para exibi��o em lu
 define("SISTEMA_CODIGO", "esiclivre"); //codigo para defini��o da lista de sess�o do sistema
 
 
-define("MAIL_HOST", "you@yourdomain");
+define("MAIL_HOST", "meudominio@meudominio.com");
 define("DBHOST", "localhost");
 define("DBUSER", "root");
 define("DBPASS", "");

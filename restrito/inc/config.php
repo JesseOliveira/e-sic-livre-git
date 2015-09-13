@@ -11,7 +11,7 @@
 define("SISTEMA_NOME", "e-SIC Livre"); //nome do sistema para exibição em lugares diversos
 define("SISTEMA_CODIGO", "esiclivrerestrito"); //codigo para definição da lista de sessão do sistema
 
-define("MAIL_HOST", "mail.natal.rn.gov.br");
+define("MAIL_HOST", "meudominio@meudominio.com");
 define("DBHOST", "localhost");
 define("DBUSER", "root");
 define("DBPASS", "");
