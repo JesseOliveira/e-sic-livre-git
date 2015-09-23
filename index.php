@@ -8,4 +8,3 @@
  modificá-lo sob os termos da Licença GPL2.
 ***********************************************************************************/
 header("Location: index"); 
-?>
